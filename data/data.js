@@ -2,7 +2,7 @@
 // Mau ganti teks atau tambah karya? Cukup ubah file ini.
 
 export const situs = {
-  nama: 'Nama Kamu',
+  nama: 'Ntut Kisut',
   deskripsi: 'Desainer yang membuat hal-hal sederhana menjadi menarik.',
   email: 'halo@contoh.com',
 };
