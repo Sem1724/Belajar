@@ -4,7 +4,9 @@ import './globals.css';
 import Menu from '../components/Menu';
 import { situs } from '../data/data';
 //Percobaan
+/*
 import { karya } from '../data/data';
+*/
 
 // Judul tab dan deskripsi untuk Google
 export const metadata = {

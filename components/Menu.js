@@ -11,6 +11,8 @@ export default function Menu() {
       <div className="flex gap-6 text-sm">
         <Link href="/" className="hover:text-aksen">Karya</Link>
         <Link href="/tentang" className="hover:text-aksen">Tentang</Link>
+
+         <Link href="/misal" className="hover:text-aksen">Misal</Link>
       </div>
     </nav>
   );
