@@ -1,0 +1,16 @@
+/* Baris ini mengaktifkan Tailwind. Wajib ada. */
+@import "tailwindcss";
+
+/* Warna sendiri. Setelah didaftarkan di sini, bisa dipakai sebagai
+   kelas Tailwind: bg-krem, text-tinta, text-aksen, dst. */
+@theme {
+  --color-krem: #f7f5f0;
+  --color-tinta: #1d1d1b;
+  --color-aksen: #2f5bea;
+}
+
+/* CSS biasa tetap boleh ditulis di sini. */
+body {
+  background: var(--color-krem);
+  color: var(--color-tinta);
+}
